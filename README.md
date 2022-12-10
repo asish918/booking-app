@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<!-- ![booktickets](screenshots/booktickets.gif) -->
+<img src="screenshots/booktickets.gif" width="120" >
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
